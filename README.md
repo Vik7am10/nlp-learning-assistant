@@ -12,9 +12,14 @@ A Flask-based web app for generating questions, summarizing text, and answering 
    ```bash
    git clone https://github.com/your-username/nlp-learning-assistant.git
    cd nlp-learning-assistant
-2 Install dependencies:
-   '''bash
+2. Install Dependencies:
+   ```bash
    pip install -r requirements.txt
-3. Run the app:
+3. Run the setup
+   ```bash
    python setup.py
-Visit http://127.0.0.1:5000 in your browser.
+4. Visit the app in the browser at:
+   ```bash
+   http://127.0.0.1:5000
+
+
